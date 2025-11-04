@@ -158,5 +158,5 @@ Optional: Include qualitative examples showing SRGAN improvements or artifacts.
 - Reproducible ML workflow
 
 ## 📌 Interpretation
-Model A outperforms Model B slightly across all metrics.Although SRGAN produced visually sharper images, they introduced small artifacts that slightly reduced classification performance.
+Model A outperforms Model B slightly across all metrics (ResNet-18).Although SRGAN produced visually sharper images, they introduced small artifacts that slightly reduced classification performance.
 This suggests that with already high-resolution training images (128×128 rescaled), SRGAN super-resolution does not significantly boost classifier accuracy and may even hurt performance if artifacts appear.
