@@ -157,16 +157,3 @@ Optional: Include qualitative examples showing SRGAN improvements or artifacts.
 - Proper train/test splits with no data leakage
 - Reproducible ML workflow
 
-## 🔁 Reproducibility Checklist
-
-| Item | Status |
-|------|--------|
-| Dataset link | ✅ |
-| Fix random seeds | ✅ |
-| List dependencies | ✅ |
-| Show code & configs | ✅ |
-| Save train/test CSVs | ✅ |
-| Save model checkpoints | ✅ |
-| Plot transformations | ✅ |
-| Plot SRGAN outputs | ✅ |
-| Compare A vs B metrics | ✅ |
